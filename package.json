@@ -1,0 +1,33 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is a repository of node_study",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "express": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-qiao/node.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave-qiao/node/issues"
+  },
+  "homepage": "https://github.com/dave-qiao/node#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
